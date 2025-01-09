@@ -18,7 +18,7 @@ Automated interactions in [Wintrcat's Game Report](https://chess.wintrcat.uk/) t
 3. Finish the reCAPTCHA when program ends
 
 ### Additions
-- [x] environment file? 
+- [] environment file? 
 
 ### Notes
 Thank you to [Wintrcat](https://github.com/WintrCat) for creating his free Game Report website.
