@@ -1,4 +1,4 @@
-# chess-auto-review
+# chess-analyze-script
  
 Automated interactions in [Wintrcat's Game Report](https://chess.wintrcat.uk/) to get the latest game review. Made for clicking less.
 
